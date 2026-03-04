@@ -1,1 +1,1 @@
-# [ℹ️ Εδώ θα βρεις την εκφώνηση.](https://exams-iee.the.ihu.gr/mod/resource/view.php?id=1539)
+# [ℹ️ Εδώ θα βρεις τις εκφωνήσεις.](https://exams-iee.the.ihu.gr/course/view.php?id=65)
