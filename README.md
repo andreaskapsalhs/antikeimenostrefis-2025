@@ -12,6 +12,8 @@
 ## 🔗 Γρήγορη Πρόσβαση
 - [☕ 1ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab1)
 - [☕ 2ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab2)
+- [☕ 3ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab3)
+
 
 ## 💻 Προτεινόμενο Περιβάλλον Ανάπτυξης (IDE): IntelliJ IDEA
 Για την καλύτερη δυνατή εμπειρία συγγραφής κώδικα (ειδικά σε Java), προτείνεται η χρήση του **IntelliJ IDEA** της JetBrains. 
