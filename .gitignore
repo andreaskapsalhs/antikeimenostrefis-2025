@@ -10,6 +10,7 @@ target/
 .idea/compiler.xml
 .idea/libraries/
 .idea/discord.xml
+.idea/workspace.xml
 *.iws
 *.iml
 *.ipr
