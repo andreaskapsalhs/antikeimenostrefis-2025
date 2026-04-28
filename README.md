@@ -7,7 +7,6 @@
 - **Προς το παρόν:**
     - **<ins>Ενδεικτικές</ins>** λύσεις των εργαστηριακών ασκήσεων
 - **Μελλοντικά:**
-    - **<ins>Ενδεικτικές</ins>** λύσεις παλιών θεμάτων
     - Σημειώσεις για το εργαστηριακό μέρος του μαθήματος
 
 > *🗓️ Το υλικό αναφέρεται στο Ακαδημαϊκό Έτος 2025-2026
@@ -21,7 +20,7 @@
   - [🔎 4ο | Αλγόριθμοι Αναζήτησης](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab4)
   - [📊 5ο | Αλγόριθμοι ταξινόμησης με ανταλλαγή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab5)
   - [🌀 6ο | Αλγόριθμοι ταξινόμησης με αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab6)
-* Προηγούμενες εξεταστικές:
+* Σημειώσεις:
   - 🔜 | Σύντομα
 
 ## 💻 Προτεινόμενο Περιβάλλον Ανάπτυξης (IDE): IntelliJ IDEA
