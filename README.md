@@ -20,6 +20,7 @@
   - [🔎 4ο | Αλγόριθμοι Αναζήτησης](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab4)
   - [📊 5ο | Αλγόριθμοι ταξινόμησης με ανταλλαγή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab5)
   - [🌀 6ο | Αλγόριθμοι ταξινόμησης με αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab6)
+  - [🧬 7ο | Σύνθεση, Κληρονομικότητα, Εξειδίκευση](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab7)
 * Σημειώσεις:
   - 🔜 | Σύντομα
 

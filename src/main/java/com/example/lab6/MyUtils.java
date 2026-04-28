@@ -1,8 +1,6 @@
 package com.example.lab6;
 
 import gr.ihu.iee.oop.lab.UserInput;
-import com.example.lab6.Foititis;
-
 import java.util.Objects;
 
 public class MyUtils {

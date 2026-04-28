@@ -1,7 +1,5 @@
 package com.example.lab6;
 
-import com.example.lab6.Foititis;
-import com.example.lab6.MyUtils;
 import gr.ihu.iee.oop.lab.UserInput;
 
 public class TestSortUtils {
