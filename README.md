@@ -14,11 +14,15 @@
 του [Τμήματος Μηχανικών Πληροφορικής και Ηλεκτρονικών Συστημάτων](https://iee.ihu.gr) του ΔΙΠΑΕ.*
 
 ## 🔗 Γρήγορη Πρόσβαση
-
-- [☕ 1ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab1)
-- [☕ 2ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab2)
-- [☕ 3ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab3)
-- [☕ 4ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab4)
+* Εργαστηριακές Ασκήσεις:
+  - [☕ 1ο | Εισαγωγή στον OOP](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab1)
+  - [📋 2ο | Πίνακες & Συμβολοσειρές](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab2)
+  - [🔁 3ο | Αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab3)
+  - [🔎 4ο | Αλγόριθμοι Αναζήτησης](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab4)
+  - [📊 5ο | Αλγόριθμοι ταξινόμησης με ανταλλαγή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab5)
+  - [🌀 6ο | Αλγόριθμοι ταξινόμησης με αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab6)
+* Προηγούμενες εξεταστικές:
+  - 🔜 | Σύντομα
 
 ## 💻 Προτεινόμενο Περιβάλλον Ανάπτυξης (IDE): IntelliJ IDEA
 
@@ -26,12 +30,11 @@
 JetBrains.
 
 - 🆓 **Δωρεάν για φοιτητές:** Μπορείτε να ξεκλειδώσετε την πλήρη έκδοση (**Ultimate Edition**) δωρεάν,
-  κάνοντας [εγγραφή](https://www.jetbrains.com/academy/student-pack/    ) με το ιδρυματικό σας email (π.χ.
+  κάνοντας [εγγραφή](https://www.jetbrains.com/academy/student-pack/) με το ιδρυματικό σας email (π.χ.
   `username@ihu.gr`).
 - 📥 [Κατεβάστε το IntelliJ IDEA εδώ](https://www.jetbrains.com/idea/download/)
 - ℹ️ *Για την ανάπτυξη του κώδικα χρησιμοποιείται
-  το [JDK 8](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html) στο οποίο αναφέρεται η
-  θεωρία.*
+  το [JDK 15](https://jdk.java.net/archive/) στο οποίο αναφέρονται τα εργαστήρια.*
 
 ## ⚠️ Προειδοποίηση
 
