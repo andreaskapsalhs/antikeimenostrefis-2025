@@ -10,7 +10,7 @@ public class Oromisthios extends Ypallilos {
     }
 
     protected double calculateSalary() {
-        return 7*oresErgasias + 0.6*(7*oresErgasias);
+        return 30* (7*oresErgasias + 0.6*(7*oresErgasias));
     }
 
     @Override
