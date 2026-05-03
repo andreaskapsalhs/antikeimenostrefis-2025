@@ -7,6 +7,19 @@ import java.io.InputStreamReader;
  * Παρέχεται από εδώ: https://exams-iee.the.ihu.gr/pluginfile.php/15159/mod_resource/content/1/UserInput.java
  */
 public class UserInput {
+    public static boolean getBoolean() {
+        String line;
+        InputStreamReader eisodosString = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(eisodosString);
+        try {
+            line = br.readLine();
+            boolean b = Boolean.parseBoolean(line);
+            return b;
+        } catch (Exception e) {
+            throw new RuntimeException("Failed to read boolean input", e);
+        }
+    }
+
     public static int getInteger() {
         String line;
         InputStreamReader eisodosString = new InputStreamReader(System.in);

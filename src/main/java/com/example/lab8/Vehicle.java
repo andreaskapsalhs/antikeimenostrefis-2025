@@ -1,16 +1,40 @@
-package com.example.lab7.askisi2;
+package com.example.lab8;
 
-public class Vehicle {
+import com.example.lab7.askisi2.Engine;
+import com.example.lab7.askisi2.SteeringSystem;
+
+public abstract class Vehicle {
     private String owner;
     private int licensePlate;
     private int manufactureYear;
     private SteeringSystem steeringSystem;
     private Engine engine;
 
-    public Vehicle(int manufactureYear, SteeringSystem steeringSystem, Engine engine) {
+    public Vehicle(String owner, int licensePlate, int manufactureYear, SteeringSystem steeringSystem, Engine engine) {
+        this.owner = owner;
+        this.licensePlate = licensePlate;
         this.manufactureYear = manufactureYear;
         this.steeringSystem = steeringSystem;
         this.engine = engine;
+    }
+
+    // Η κάθε υποκλάση έχει την δική της υλοποιήση.
+    public abstract void drive();
+
+    public void transferOwnership(String newOwner) {
+        System.out.println("Ownership is transferred from " + this.getOwner() + " to " + newOwner + ".");
+        this.setOwner(newOwner);
+    }
+
+    @Override
+    public String toString() {
+        return "Vehicle{" +
+                "owner='" + owner + '\'' +
+                ", licensePlate=" + licensePlate +
+                ", manufactureYear=" + manufactureYear +
+                ", steeringSystem=" + steeringSystem +
+                ", engine=" + engine +
+                '}';
     }
 
     public String getOwner() {

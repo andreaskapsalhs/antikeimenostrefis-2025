@@ -1,6 +1,6 @@
 package com.example.lab7.askisi2;
 
-public class SystimaDieuthynsis {
+public class SteeringSystem {
     public static void vazeiEmpros() {}
     public static void svynei() {}
     public static void striveiAristera() {}
