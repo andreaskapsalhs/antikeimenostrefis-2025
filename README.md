@@ -7,6 +7,7 @@
 - **Προς το παρόν:**
     - **<ins>Ενδεικτικές</ins>** λύσεις των εργαστηριακών ασκήσεων
 - **Μελλοντικά:**
+    - **<ins>Ενδεικτικές</ins>** λύσεις παλιών εξεταστικών
     - Σημειώσεις για το εργαστηριακό μέρος του μαθήματος
 
 > *🗓️ Το υλικό αναφέρεται στο Ακαδημαϊκό Έτος 2025-2026
@@ -14,17 +15,17 @@
 
 ## 🔗 Γρήγορη Πρόσβαση
 * Εργαστηριακές Ασκήσεις:
-  - [☕ 1ο | Εισαγωγή στον OOP](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab1)
-  - [📋 2ο | Πίνακες & Συμβολοσειρές](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab2)
-  - [🔁 3ο | Αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab3)
-  - [🔎 4ο | Αλγόριθμοι Αναζήτησης](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab4)
-  - [📊 5ο | Αλγόριθμοι ταξινόμησης με ανταλλαγή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab5)
-  - [🌀 6ο | Αλγόριθμοι ταξινόμησης με αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab6)
-  - [🧬 7ο | Σύνθεση, Κληρονομικότητα, Εξειδίκευση](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab7)
-  - [🎭 8ο | Γενίκευση, Πολυμορφισμός - 1](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab8)
-  - [🎭 9ο | Γενίκευση, Πολυμορφισμός - 2](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab9)
-
-
+  - [☕ 1ο | Εισαγωγή στον OOP](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab1)
+  - [📋 2ο | Πίνακες & Συμβολοσειρές](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab2)
+  - [🔁 3ο | Αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab3)
+  - [🔎 4ο | Αλγόριθμοι Αναζήτησης](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab4)
+  - [📊 5ο | Αλγόριθμοι ταξινόμησης με ανταλλαγή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab5)
+  - [🌀 6ο | Αλγόριθμοι ταξινόμησης με αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab6)
+  - [🧬 7ο | Σύνθεση, Κληρονομικότητα, Εξειδίκευση](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab7)
+  - [🎭 8ο | Γενίκευση, Πολυμορφισμός - 1](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab8)
+  - [🎭 9ο | Γενίκευση, Πολυμορφισμός - 2](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab9)
+* Λύσεις παλιών εξεταστικών:
+  - 🔜 | Σύντομα
 * Σημειώσεις:
   - 🔜 | Σύντομα
 
@@ -41,7 +42,6 @@ JetBrains.
   το [JDK 15](https://jdk.java.net/archive/) στο οποίο αναφέρονται τα εργαστήρια.*
 
 ## ⚠️ Προειδοποίηση
-
 - Αυτές οι λύσεις παρέχονται **αποκλειστικά για εκπαιδευτικούς σκοπούς**. Χρησιμοποιήστε τες ως σημείο αναφοράς για να
   κατανοήσετε τη λογική, και όχι για απευθείας αντιγραφή.
 - Οι λύσεις αποτελούν προσωπική προσπάθεια **και ενδέχεται να περιέχουν λάθη**. Εάν εντοπίσετε κάποιο σφάλμα, η
@@ -49,11 +49,9 @@ JetBrains.
   *[Pull Request](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/pulls)* είναι παραπάνω από ευπρόσδεκτη!
 
 ## 📫 Επικοινώνησε μαζί μου
-
 - **GitHub**: [@andreaskapsalhs](https://github.com/andreaskapsalhs)
 - **Email**: andreaskapsalhs@gmail.com
 - **Discord**: [@z7rwastaken](https://discord.com)
 
 ---
-
 ***⭐ Αν το περιεχόμενο σου φάνηκε χρήσιμο, μη διστάσεις να αφήσεις ένα αστέρι (star) στο repository!***
