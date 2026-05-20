@@ -54,8 +54,9 @@ public class Main {
                 default:
                     System.out.println("Wrong choice, enter a value between 1 and 8.");
             }
-
         } while (selection != 8);
+
+        scanner.close();
     }
 
     private static void enterArtwork() {
