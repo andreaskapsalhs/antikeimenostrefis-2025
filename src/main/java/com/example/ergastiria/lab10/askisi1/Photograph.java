@@ -4,12 +4,16 @@ public class Photograph implements ProsPolisi {
     private String description;
     private double price;
     private boolean isColorful;
+    private double cataloguePrice;
+    private double lowestAcceptablePrice;
 
     public Photograph(String description, double price, boolean isColorful) {
         this.description = description;
         this.price = price;
         this.isColorful = isColorful;
         this.price = price;
+        this.cataloguePrice = getCataloguePrice();
+        this.lowestAcceptablePrice = getLowestAcceptablePrice(80);
     }
 
     public void setPrice(double price) {
@@ -46,9 +50,11 @@ public class Photograph implements ProsPolisi {
     @Override
     public String toString() {
         return "Photograph{" +
-                "description='" + this.description + '\'' +
-                ", price=" + this.price +
-                ", isColorful=" + this.isColorful +
+                "description='" + description + '\'' +
+                ", price=" + price +
+                ", isColorful=" + isColorful +
+                ", cataloguePrice=" + cataloguePrice +
+                ", lowestAcceptablePrice=" + lowestAcceptablePrice +
                 '}';
     }
 }
