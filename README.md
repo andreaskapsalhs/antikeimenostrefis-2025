@@ -25,6 +25,8 @@
   - [🎭 8ο | Γενίκευση, Πολυμορφισμός - 1](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab8)
   - [🎭 9ο | Γενίκευση, Πολυμορφισμός - 2](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab9)
   - [🔌 10ο | Διασυνδέσεις, Πολλαπλή Κληρονομικότητα](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab10)
+  - [⚠️ 11ο | Εξαιρέσεις (Χωρίς Πακέτα)](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab11)
+  - [📦 12ο | Γενικοί Τύποι - Generics (Χωρίς Εσωτερικές Κλάσεις)](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab12)
 * Λύσεις παλιών εξεταστικών:
   - 🔜 | Σύντομα
 * Σημειώσεις:
