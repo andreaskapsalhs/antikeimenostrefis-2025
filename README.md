@@ -14,7 +14,7 @@
 του [Τμήματος Μηχανικών Πληροφορικής και Ηλεκτρονικών Συστημάτων](https://iee.ihu.gr) του ΔΙΠΑΕ.*
 
 ## 🔗 Γρήγορη Πρόσβαση
-* Εργαστηριακές Ασκήσεις:
+* **Εργαστηριακές Ασκήσεις:**
   - [☕ 1ο | Εισαγωγή στον OOP](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab1)
   - [📋 2ο | Πίνακες & Συμβολοσειρές](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab2)
   - [🔁 3ο | Αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab3)
@@ -27,10 +27,11 @@
   - [🔌 10ο | Διασυνδέσεις, Πολλαπλή Κληρονομικότητα](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab10)
   - [🆘 11ο | Εξαιρέσεις (Χωρίς Πακέτα)](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab11)
   - [📦 12ο | Γενικοί Τύποι - Generics (Χωρίς Εσωτερικές Κλάσεις)](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab12)
-* Λύσεις παλιών εξεταστικών:
-  - 🔜 | Σύντομα
-* Σημειώσεις:
-  - 🔜 | Σύντομα
+* **Λύσεις παλιών εξεταστικών:**
+  - 📅 **2025**:
+    - [🚗 ΕΑΡΙΝΟ | ΑΣΔΡΕ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/extastikes/earino/a2025/)
+* **Σημειώσεις:**
+  - [📝 Πάτα με](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/simeioseis/)
 
 ## 💻 Προτεινόμενο Περιβάλλον Ανάπτυξης (IDE): IntelliJ IDEA
 
