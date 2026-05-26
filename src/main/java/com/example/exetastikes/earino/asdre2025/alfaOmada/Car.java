@@ -1,6 +1,4 @@
-package com.example.exetastikes.earino.a2025;
-
-import gr.ihu.iee.oop.lab.UserInput;
+package com.example.exetastikes.earino.asdre2025.alfaOmada;
 
 public class Car extends Vehicle {
     private int days;

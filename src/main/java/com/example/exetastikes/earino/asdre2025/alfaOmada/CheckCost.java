@@ -1,4 +1,4 @@
-package com.example.exetastikes.earino.a2025;
+package com.example.exetastikes.earino.asdre2025.alfaOmada;
 
 import gr.ihu.iee.oop.lab.UserInput;
 
