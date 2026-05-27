@@ -25,11 +25,6 @@ public class Foititis {
         );
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hashCode(getEponymo());
-    }
-
     public String getOnoma() {
         return onoma;
     }
