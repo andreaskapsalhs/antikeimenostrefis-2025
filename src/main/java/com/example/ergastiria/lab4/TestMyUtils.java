@@ -24,6 +24,8 @@ public class TestMyUtils {
 
         System.out.println(MyUtils.anazitisiMeEpwnymo(pinakas, "eponymo"));
         System.out.println(MyUtils.anazitisiMeArMitrwou(pinakas));
+
+        pinakas = MyUtils.bubbleSortAM(pinakas);
         System.out.println(MyUtils.anadromiAnazMeArithMitrwou(pinakas, (short) 93, 0, pinakas.length));
     }
 }

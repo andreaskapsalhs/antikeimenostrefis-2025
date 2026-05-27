@@ -5,6 +5,20 @@ import gr.ihu.iee.oop.lab.UserInput;
 import java.util.Objects;
 
 public class MyUtils {
+    public static Foititis[] bubbleSortAM(Foititis[] pinakas) {
+        for (int i = 0; i < pinakas.length - 1; i++) {
+            for (int j = pinakas.length - 1; j > i; j--) {
+                if (pinakas[j - 1].getArithmosMitrwou() > pinakas[j].getArithmosMitrwou()) {
+                    Foititis temp    = pinakas[j];
+                    pinakas[j]  = pinakas[j - 1];
+                    pinakas[j - 1] = temp;
+                }
+            }
+        }
+
+        return pinakas;
+    }
+
     public static int anazitisiMeEpwnymo(Foititis[] pinakas, String eponymo) {
         int thesi = -1;
         for (int i = 0; i < pinakas.length - 1; i++) {
