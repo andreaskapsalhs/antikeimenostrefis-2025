@@ -2,7 +2,6 @@ package com.example.ergastiria.lab5;
 
 import gr.ihu.iee.oop.lab.UserInput;
 import com.example.ergastiria.lab4.Foititis;
-
 import java.util.Objects;
 
 public class MyUtils {

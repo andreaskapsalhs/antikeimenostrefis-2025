@@ -5,14 +5,16 @@ import gr.ihu.iee.oop.lab.UserInput;
 
 public class TestSortUtils {
     public static void main(String[] args) {
-        Foititis[] pinakas = new Foititis[3];
+        Foititis[] pinakas = new Foititis[7];
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < pinakas.length; i++) {
             System.out.print("Dwse onoma foititi[" + i + "]: ");
             String onoma = UserInput.getString();
 
             System.out.print("Dwse eponymo foititi[" + i + "]: ");
             String eponymo = UserInput.getString();
+
+            pinakas[i] = new Foititis(onoma, eponymo);
 
             System.out.print("Dwse AM foititi[" + i + "]: ");
             short arithmoMitrwou = UserInput.getShort();
@@ -20,35 +22,44 @@ public class TestSortUtils {
             System.out.print("Dwse etos eisagwgis foititi[" + i + "]: ");
             short etosEisagwgis = UserInput.getShort();
 
-            pinakas[i] = new Foititis(onoma, eponymo, arithmoMitrwou, etosEisagwgis);
+            pinakas[i].setArithmosMitrwou(arithmoMitrwou);
+            pinakas[i].setEtosEisagwgis(etosEisagwgis);
         }
 
-        // Dokimes:
-        //        for (int i = 0; i < pinakas.length; i++) {
-        //            System.out.println("Prin insertionSort: " + pinakas[i].getArithmosMitrwou());
-        //        }
-        //
-        //        MyUtils.insertionSortAM(pinakas);
-        //
-        //        for (int i = 0; i < pinakas.length; i++) {
-        //            System.out.println("Meta insertionSort: " + pinakas[i].getArithmosMitrwou());
-        //        }
-        //
-        //        for (int i = 0; i < pinakas.length; i++) {
-        //            System.out.println("Prin selectionsSort: " + pinakas[i].getEponymo());
-        //        }
-        //
-        //        MyUtils.selectionSortEponymo(pinakas);
-        //
-        //        for (int i = 0; i < pinakas.length; i++) {
-        //            System.out.println("Meta selectionsSort: " + pinakas[i].getEponymo());
-        //        }
+        /*
+            DOKIMH INSERTION SORT
+        */
+        for (int i = 0; i < pinakas.length; i++) {
+            System.out.println("Prin insertionSort: " + pinakas[i].getArithmosMitrwou());
+        }
 
+        MyUtils.insertionSortAM(pinakas);
+
+        for (int i = 0; i < pinakas.length; i++) {
+            System.out.println("Meta insertionSort: " + pinakas[i].getArithmosMitrwou());
+        }
+
+        /*
+            DOKIMH SELECTION SORT
+        */
+        for (int i = 0; i < pinakas.length; i++) {
+            System.out.println("Prin selectionsSort: " + pinakas[i].getEponymo());
+        }
+
+        MyUtils.selectionSortEponymo(pinakas);
+
+        for (int i = 0; i < pinakas.length; i++) {
+            System.out.println("Meta selectionsSort: " + pinakas[i].getEponymo());
+        }
+
+         /*
+            DOKIMH BUBBLE SORT
+        */
         for (int i = 0; i < pinakas.length; i++) {
             System.out.println("Prin bubbleSort: " + pinakas[i].getEtosEisagwgis());
         }
 
-        MyUtils.bubbleSortEE(pinakas);
+        pinakas = MyUtils.bubbleSortEE(pinakas);
 
         for (int i = 0; i < pinakas.length; i++) {
             System.out.println("Meta bubbleSort: " + pinakas[i].getEtosEisagwgis());

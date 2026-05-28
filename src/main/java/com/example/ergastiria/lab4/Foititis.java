@@ -15,6 +15,11 @@ public class Foititis {
         this.etosEisagwgis = etosEisagwgis;
     }
 
+    public Foititis(String onoma, String eponymo) {
+        this.onoma = onoma;
+        this.eponymo = eponymo;
+    }
+
     @Override
     public String toString() {
         return (
