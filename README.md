@@ -53,7 +53,7 @@ JetBrains.
 ## 📫 Επικοινώνησε μαζί μου
 - **GitHub**: [@andreaskapsalhs](https://github.com/andreaskapsalhs)
 - **Email**: andreaskapsalhs@gmail.com
-- **Discord**: [@andreaskapsalhs](https://discord.com)
+- **Discord**: [@kapsalhs](https://discord.com)
 
 ---
 ***⭐ Αν το περιεχόμενο σου φάνηκε χρήσιμο, μη διστάσεις να αφήσεις ένα αστέρι (star) στο repository!***
