@@ -7,8 +7,9 @@ public class Motorcycle extends Vehicle  {
     public Motorcycle() {
     }
 
-    public int charge(int pagio) {
-        return (this.mValue * 20) + pagio;
+    @Override
+    public int charge() {
+        return (this.people * this.mValue) + (this.mValue * 20);
     }
 
     public int getPeople() {
@@ -26,5 +27,13 @@ public class Motorcycle extends Vehicle  {
 
     public void setmValue(int mValue) {
         this.mValue = mValue;
+    }
+
+    @Override
+    public String toString() {
+        return "Motorcycle{" +
+                "people=" + people +
+                ", mValue=" + mValue +
+                '}';
     }
 }

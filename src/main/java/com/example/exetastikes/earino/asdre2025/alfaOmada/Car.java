@@ -8,8 +8,9 @@ public class Car extends Vehicle {
     public Car() {
     }
 
-    public int charge(int pagio) {
-        return (this.cValue * 20) + pagio;
+    @Override
+    public int charge() {
+        return (this.days * this.cValue) + (this.cValue * 20);
     }
 
     public int getDays() {
@@ -35,5 +36,14 @@ public class Car extends Vehicle {
 
     public void setEng(Engine eng) {
         this.eng = eng;
+    }
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "days=" + days +
+                ", cValue=" + cValue +
+                ", eng=" + eng +
+                '}';
     }
 }

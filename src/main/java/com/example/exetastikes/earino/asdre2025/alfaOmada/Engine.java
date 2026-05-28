@@ -7,7 +7,7 @@ public class Engine {
         this.cc = cc;
     }
 
-    private void start() {
+    public void start() {
         System.out.println("Engine starts...");
     }
 

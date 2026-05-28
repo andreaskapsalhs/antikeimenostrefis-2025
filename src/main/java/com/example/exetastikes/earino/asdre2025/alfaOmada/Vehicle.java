@@ -1,6 +1,6 @@
 package com.example.exetastikes.earino.asdre2025.alfaOmada;
 
-public class Vehicle {
+public abstract class Vehicle {
     private int value;
 
     public int charge() {

@@ -18,11 +18,7 @@ public class CheckCost {
                 try {
                     car.setDays(days);
                 } catch (LathosEisodou e) {
-                    do {
-                        System.out.println("Dwse timi days xana: ");
-                        days = UserInput.getInteger();
-                    } while (days < 1 || days > 30);
-                    car.setDays(days);
+                    car.setDays(0);
                 }
 
                 System.out.println("Dwse cValue: ");
@@ -43,11 +39,7 @@ public class CheckCost {
                 try {
                     motorcycle.setPeople(people);
                 } catch (LathosEisodou e) {
-                    do {
-                        System.out.println("Dwse timi people xana: ");
-                        people = UserInput.getInteger();
-                    } while (people < 1 || people > 2);
-                    motorcycle.setPeople(people);
+                    motorcycle.setPeople(0);
                 }
 
                 System.out.println("Dwse mValue: ");
@@ -59,16 +51,19 @@ public class CheckCost {
             }
         }
 
-        int carCount = 0;
         for (int i = 0; i < pinakas.length; i++) {
+            System.out.println(pinakas[i].toString());
+
             if(pinakas[i] instanceof Car) {
-                carCount++;
-                System.out.println("Car #" + carCount + " has cc: " + ((Car) pinakas[i]).getEng().getCc());
+                System.out.print("And has cc: " + ((Car) pinakas[i]).getEng().getCc());
+                ((Car) pinakas[i]).getEng().start();
             }
         }
+
+        System.out.println("Most expensive charge per day: " + CheckCost.maxCar(pinakas));
     }
 
-    public int maxCar(Vehicle[] pinakas) {
+    public static int maxCar(Vehicle[] pinakas) {
         int max = -1;
 
         for (int i = 0; i < pinakas.length; i++) {
