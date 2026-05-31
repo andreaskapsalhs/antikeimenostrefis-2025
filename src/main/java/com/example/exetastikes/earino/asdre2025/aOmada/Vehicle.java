@@ -1,4 +1,4 @@
-package com.example.exetastikes.earino.asdre2025.alfaOmada;
+package com.example.exetastikes.earino.asdre2025.aOmada;
 
 public abstract class Vehicle {
     private int value;

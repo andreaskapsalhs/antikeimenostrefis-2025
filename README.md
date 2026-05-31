@@ -26,8 +26,9 @@
   - [📦 12ο | Γενικοί Τύποι - Generics (Χωρίς Εσωτερικές Κλάσεις)](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab12)
 * **Λύσεις παλιών εξεταστικών:**
   - 📅 **2025**:
-    - [🚗 ΕΑΡΙΝΟ | ΑΣΔΡΕ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/asdre2025/alfaOmada/)
-    - [🌐 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/alfaOmada/)
+    - [🚗 ΕΑΡΙΝΟ | ΑΣΔΡΕ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/asdre2025/aOmada/)
+    - [🌐 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/aOmada/)
+    - [👕 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/bOmada/)
 * **Σημειώσεις:**
   - [📝 Πάτα με](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/blob/main/src/main/java/com/example/simeioseis/Simeioseis.java)
 

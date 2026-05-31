@@ -1,4 +1,4 @@
-package com.example.exetastikes.earino.tekto2025.alfaOmada;
+package com.example.exetastikes.earino.tekto2025.aOmada;
 
 public abstract class FinancialOffer {
     private String customerName;

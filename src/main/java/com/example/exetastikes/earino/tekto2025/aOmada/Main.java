@@ -1,4 +1,4 @@
-package com.example.exetastikes.earino.tekto2025.alfaOmada;
+package com.example.exetastikes.earino.tekto2025.aOmada;
 
 import gr.ihu.iee.oop.lab.UserInput;
 

@@ -1,4 +1,4 @@
-package com.example.exetastikes.earino.tekto2025.alfaOmada;
+package com.example.exetastikes.earino.tekto2025.aOmada;
 
 public class WebComponent implements IModule {
     private int componentType;
