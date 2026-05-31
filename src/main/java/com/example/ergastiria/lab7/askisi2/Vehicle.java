@@ -12,7 +12,7 @@ public class Vehicle {
         this.steeringSystem = steeringSystem;
         this.engine = engine;
     }
-
+    
     public String getOwner() {
         return owner;
     }
