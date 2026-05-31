@@ -9,9 +9,15 @@ public class Engine {
         this.horsePower = horsePower;
     }
 
-    public void operation() {}
-    public void drive() {}
-    public void turnOff() {}
+    public void turnOn() {
+        System.out.println("Engine turnt on.");
+    }
+    public void drive() {
+        System.out.println("Engine is driving.");
+    }
+    public void turnOff() {
+        System.out.println("Engine turnt off.");
+    }
 
     public int getDisplacement() {
         return displacement;
