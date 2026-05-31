@@ -27,6 +27,7 @@
 * **Λύσεις παλιών εξεταστικών:**
   - 📅 **2025**:
     - [🚗 ΕΑΡΙΝΟ | ΑΣΔΡΕ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/asdre2025/aOmada/)
+    - [🧑‍🎓 ΕΑΡΙΝΟ | ΑΣΔΡΕ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/asdre2025/cOmada/)
     - [🌐 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/aOmada/)
     - [👕 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/bOmada/)
 * **Σημειώσεις:**
