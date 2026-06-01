@@ -1,6 +1,6 @@
 package com.example.exetastikes.earino.asdre2025.cOmada;
 
-public class Student {
+public abstract class Student {
     private double bonus;
 
     public double grade() {

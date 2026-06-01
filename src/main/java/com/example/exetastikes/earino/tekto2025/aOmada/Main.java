@@ -19,8 +19,6 @@ public class Main {
         WebProject project = new WebProject(customerName, budget, projectName, totalDuration, developerCount, components);
 
         for (int i = 0; i < components.length; i++) {
-            WebComponent comp = new WebComponent();
-
             System.out.println("Give position: ");
             int pos = UserInput.getInteger();
 

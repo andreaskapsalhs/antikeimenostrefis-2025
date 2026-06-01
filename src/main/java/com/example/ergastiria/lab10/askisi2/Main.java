@@ -50,6 +50,8 @@ public class Main {
                 Aviary[i] = new Bird(age,weight);
                 System.out.println("Created Bird: " + Aviary[i].toString());
             }
+
+            scanner.close();
         }
     }
 }

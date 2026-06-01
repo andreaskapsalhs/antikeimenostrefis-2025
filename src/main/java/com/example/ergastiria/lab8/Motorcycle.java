@@ -1,8 +1,5 @@
 package com.example.ergastiria.lab8;
 
-import com.example.ergastiria.lab7.askisi2.Engine;
-import com.example.ergastiria.lab7.askisi2.SteeringSystem;
-
 public class Motorcycle extends Vehicle {
     private boolean hasNextVehicle;
 

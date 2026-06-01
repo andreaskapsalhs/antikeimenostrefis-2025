@@ -1,7 +1,5 @@
 package com.example.ergastiria.lab4;
 
-import java.util.Objects;
-
 public class Foititis {
     private String onoma;
     private String eponymo;
