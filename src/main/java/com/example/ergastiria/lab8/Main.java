@@ -1,7 +1,5 @@
 package com.example.ergastiria.lab8;
 
-import com.example.ergastiria.lab7.askisi2.Engine;
-import com.example.ergastiria.lab7.askisi2.SteeringSystem;
 import gr.ihu.iee.oop.lab.UserInput;
 
 public class Main {

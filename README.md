@@ -25,12 +25,14 @@
   - [🆘 11ο | Εξαιρέσεις (Χωρίς Πακέτα)](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab11)
   - [📦 12ο | Γενικοί Τύποι - Generics (Χωρίς Εσωτερικές Κλάσεις)](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/ergastiria/lab12)
 * **Λύσεις παλιών εξεταστικών:**
-  - 📅 **2025**:
+  - 🔬 **ΕΡΓΑΣΤΗΡΙΟ 2025**:
     - [🚗 ΕΑΡΙΝΟ | ΑΣΔΡΕ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/asdre2025/aOmada/)
     - [👷 ΕΑΡΙΝΟ | ΑΣΔΡΕ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/asdre2025/bOmada/)
     - [🧑‍🎓 ΕΑΡΙΝΟ | ΑΣΔΡΕ Γ' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/asdre2025/cOmada/)
     - [🌐 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/aOmada/)
     - [👕 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/bOmada/)
+  - 📜 **ΘΕΩΡΙΑ 2025**
+    - [📚 ΕΜΒΟΛΙΜΗ 04/02/2026](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/embolimi/theoria/adamidis2025/)
 * **Σημειώσεις:**
   - [📝 Πάτα με](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/blob/main/src/main/java/com/example/simeioseis/Simeioseis.java)
 
