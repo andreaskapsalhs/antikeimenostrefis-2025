@@ -32,7 +32,7 @@
     - [🌐 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/aOmada/)
     - [👕 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/tekto2025/bOmada/)
   - 📜 **ΘΕΩΡΙΑ 2025**
-    - [📚 ΕΜΒΟΛΙΜΗ 04/02/2026](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/embolimi/theoria/adamidis2025/)
+    - [📚 ΕΜΒΟΛΙΜΗ 04/02/2026](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/embolimi/theoria/adamidis2026/)
 * **Σημειώσεις:**
   - [📝 Πάτα με](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/blob/main/src/main/java/com/example/simeioseis/Simeioseis.java)
 

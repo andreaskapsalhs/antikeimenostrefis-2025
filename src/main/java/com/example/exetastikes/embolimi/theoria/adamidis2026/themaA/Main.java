@@ -1,4 +1,4 @@
-package com.example.exetastikes.embolimi.theoria.adamidis2025.themaA;
+package com.example.exetastikes.embolimi.theoria.adamidis2026.themaA;
 
 public class Main {
     public static void main(String[] args) {

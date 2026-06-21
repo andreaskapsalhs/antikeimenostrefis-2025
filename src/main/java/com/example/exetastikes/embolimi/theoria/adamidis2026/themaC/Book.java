@@ -1,4 +1,4 @@
-package com.example.exetastikes.embolimi.theoria.adamidis2025.themaC;
+package com.example.exetastikes.embolimi.theoria.adamidis2026.themaC;
 
 public class Book extends LibraryItem implements Borrowable {
     private int pages;
