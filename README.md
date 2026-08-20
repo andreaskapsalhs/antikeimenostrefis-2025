@@ -29,8 +29,8 @@
     - [🚗 ΕΑΡΙΝΟ | ΑΣΔΡΕ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/ergastirio/asdre2025/aOmada/)
     - [👷 ΕΑΡΙΝΟ | ΑΣΔΡΕ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/ergastirio/asdre2025/bOmada/)
     - [🧑‍🎓 ΕΑΡΙΝΟ | ΑΣΔΡΕ Γ' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/ergastirio/asdre2025/cOmada/)
-    - [🌐 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/ergastirio/earino/tekto2025/aOmada/)
-    - [👕 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/ergastirio/earino/tekto2025/bOmada/)
+    - [🌐 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Α' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/ergastirio/tekto2025/aOmada)
+    - [👕 ΕΑΡΙΝΟ | ΤΕΚΤΟΝΙΔΗΣ Β' ΟΜΑΔΑ](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/earino/ergastirio/tekto2025/bOmada/)
   - 📜 **ΘΕΩΡΙΑ 2025**
     - [📚 ΕΜΒΟΛΙΜΗ 04/02/2026](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/exetastikes/embolimi/theoria/adamidis2026/)
 * **Σημειώσεις:**
